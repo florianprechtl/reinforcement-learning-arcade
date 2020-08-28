@@ -1,0 +1,21 @@
+{   "command": "python main.py --train --render -E CartPole-v1 -a a2c -S 1337 -e 2",
+	"combinations":[      
+		{
+			"ALPHA":"0.001",
+			"BETA":"0.001"
+		},
+		{
+			"ALPHA":"0.002"    
+		},
+		{
+			"ALPHA":"0.0003"     
+		},
+		{
+			"ALPHA":"0.0009"     
+		},
+		{
+			"ALPHA":"0.01"      
+		}
+
+	]
+}

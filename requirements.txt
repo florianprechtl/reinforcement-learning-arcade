@@ -1,0 +1,10 @@
+gym
+numpy
+torch
+torchvision
+box2d
+box2d-kengz
+pygame
+keyboard
+matplotlib
+doom_py

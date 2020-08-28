@@ -1,0 +1,8 @@
+ServerTraining_12
+
+1	70000	Average:  Steps: 452.32  Reward: 4.27		|	Average:  Steps: 223.38  Reward: 8.33		|	163:37
+2	63000	Average:  Steps: 410.70  Reward: 4.69		|	Average:  Steps: 223.99  Reward: 7.86		|	152:48
+2	62000	Average:  Steps: 387.38  Reward: 4.56		|	Average:  Steps: 133.31  Reward: 7.73		|	159:41
+1	36000	Average:  Steps: 339.02  Reward: 2.38		|	Average:  Steps: 183.72  Reward: 8.25		|	150:50
+5	65000	Average:  Steps: 388.94  Reward: 2.20		|	Average:  Steps: 240.50  Reward: 6.08		|	141:59
+2	44000	Average:  Steps: 296.46  Reward: 1.20		|	Average:  Steps: 204.89  Reward: 4.64		|	139:61
